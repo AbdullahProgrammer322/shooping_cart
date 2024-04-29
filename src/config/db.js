@@ -2,6 +2,7 @@ import mongoose from 'mongoose';
 import { config } from 'dotenv';
 
 config();
+//test command
 
 const connect = () => {
   try {
